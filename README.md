@@ -49,4 +49,5 @@ The Business-Consulting App plugin is released under the [MIT License] and can b
 The Business-Consulting App plugin was developed by [IPH Technologies Pvt. Ltd.](https://www.iphtechnologies.com). We would like to thank the WordPress community and all the contributors who made this project possible.
 
 ## Screenshot
-![business_converted (2)](https://github.com/IPH-Technologies-Pvt-Ltd/Business-Consulting-Wordpress/assets/94104772/867abd09-0199-44bf-8ff3-e7516c165787)
+![Ruchi](https://github.com/IPH-Technologies-Pvt-Ltd/Business-Consulting-Wordpress/assets/124572978/e62431f7-f89e-4cf1-be1e-7f57ed8d7141)
+
