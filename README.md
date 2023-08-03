@@ -2,6 +2,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://www.php.net/)
+[![Other](https://img.shields.io/badge/other-%2320232a.svg?style=for-the-badge)](https://www.example.com/)
 
 The Business-Consulting App is a powerful WordPress plugin designed to assist businesses in providing consulting services to their clients. This readme file provides an overview of the plugin and instructions for installation and usage.
 
